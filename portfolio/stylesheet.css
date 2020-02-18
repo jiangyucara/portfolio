@@ -1,0 +1,31 @@
+p {
+  font-size: 2em;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  border-radius: 20%;
+}
+
+body {
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.container {
+  background-color: #79bac1;
+  margin: 0;
+  width: 100%;
+  max-width: 100%;
+}
+.footer-copyright{
+  background-color: #2a7886;
+}
+.Contact {
+  font-size: 1.4em;
+}
+.table-borderless td,
+.table-borderless th {
+    border: 0;
+}
